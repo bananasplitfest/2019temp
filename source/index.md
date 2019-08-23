@@ -199,12 +199,14 @@ tags:
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Climbing Wall</td><td>Ligonier Street</td></tr>
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Face Painting</td><td>Rogers Park</td></tr>
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Food & Craft Vendors Open</td><td></td></tr>
+<tr><td>10:00 AM</td><td>4:00 PM</td><td>Marketplace Vendors Open</td><td>800 Block Ligonier St</td></tr>
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Open Play Connect Four</td><td>Main Street Activity Area</td></tr>
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Open Play Jenga</td><td>Main Street Activity Area</td></tr>
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Pack 305 Rain Gutter Regatta</td><td>Rogers Park</td></tr>
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Pittburgh Steelers Children's Craft</td><td>Rogers Park</td></tr>
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Putting Contest</td><td>Main Street Activity Area</td></tr>
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Superhero Craft</td><td>Rogers Park</td></tr>
+<tr><td>10:00 AM</td><td>4:00 PM</td><td>Axe Throwing</td><td>Ligonier Street</td></tr>
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Valley Dairy Banana Splits</td><td>Ligonier & Main</td></tr>
 <tr><td>10:00 AM</td><td>11:30 PM</td><td>Open Play Cornhole</td><td>Main Street Activity Area</td></tr>
 <tr><td>11:00 AM</td><td>12:00 PM</td><td>Go Bananas Potato Sack Race</td><td>Rogers Park</td></tr>
