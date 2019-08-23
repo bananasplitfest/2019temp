@@ -36,21 +36,8 @@ tags:
 <tr><td>12:00 PM</td><td>8:00 PM</td><td>Open Play Oversized Connect Four</td><td>Main Street Activity Area</td></tr>
 <tr><td>12:00 PM</td><td>8:00 PM</td><td>Open Play Oversized Jenga</td><td>Main Street Activity Area</td></tr>
 <tr><td>12:00 PM</td><td>8:00 PM</td><td>Pittsburgh Pirates Coloring Craft</td><td>Rogers Park</td></tr>
-<tr><td>12:00 PM</td><td>8:00 PM</td><td>Putting Contest</td><td>Main Street Activity Area</td></tr>
 <tr><td>12:00 PM</td><td>8:00 PM</td><td>Valley Dairy Banana Splits</td><td>Ligonier & Main</td></tr>
-<tr><td>12:30 PM</td><td>1:30 PM</td><td>Bobby V's Live Music Show</td><td>Sendell Motors Stage</td></tr>
-<tr><td>12:30 PM</td><td>1:30 PM</td><td>Hayley Daily</td><td>Technimark Stage</td></tr>
-<tr><td>1:00 PM</td><td>2:00 PM</td><td>Angela Autumn</td><td>Dollar Bank Stage</td></tr>
-<tr><td>1:00 PM</td><td>2:00 PM</td><td>Gooo Bananas Potato Sack Race</td><td>Rogers Park</td></tr>
 <tr><td>1:00 PM</td><td>5:00 PM</td><td>American Red Cross Blood Drive</td><td>Trinity Lutheran Church</td></tr>
-<tr><td>2:00 PM</td><td>3:00 PM</td><td>Baseball Trivia Contest</td><td>Main Street Activity Area</td></tr>
-<tr><td>2:00 PM</td><td>3:00 PM</td><td>Limbo Contest</td><td>Rogers Park</td></tr>
-<tr><td>2:00 PM</td><td>3:00 PM</td><td>Zack Keim of the Nox Boys</td><td>Sendell Motors Stage</td></tr>
-<tr><td>2:00 PM</td><td>3:30 PM</td><td>DJ Joe</td><td>Technimark Stage</td></tr>
-<tr><td>2:30 PM</td><td>1:30 PM</td><td>The Aubrey Burchell Band</td><td>Dollar Bank Stage</td></tr>
-<tr><td>3:00 PM</td><td>4:00 PM</td><td>Banana Relay Race</td><td>Rogers Park</td></tr>
-<tr><td>3:00 PM</td><td>4:00 PM</td><td>Meet and Greet with Banana Man</td><td></td></tr>
-<tr><td>3:00 PM</td><td>4:00 PM</td><td>Minute to Win It Tournament</td><td>Main Street Activity Area</td></tr>
 <tr><td>3:30 PM</td><td>4:30 PM</td><td>The Rick George Band</td><td>Sendell Motors Stage</td></tr>
 <tr><td>4:00 PM</td><td>5:00 PM</td><td>Mary Lou Scherder</td><td>Technimark Stage</td></tr>
 <tr><td>4:00 PM</td><td>5:00 PM</td><td>Meet and Greet with the Banana Split Princess Court</td><td></td></tr>
@@ -182,8 +169,8 @@ tags:
  ######   #######  ##    ## ########  ##     ##    ##    
 -->
 <h2 class="title is-3">Sunday, August 25</h2>
-<h3 class="subtitle is-5">Kids Area Theme: Daniel Tiger "Kindness Matters"</h3>
-<h3 class="subtitle is-5">Sports Theme: Arnold Palmer Golf</h3>
+<h3 class="subtitle is-5">Kids Area Theme: Superheros</h3>
+<h3 class="subtitle is-5">Sports Theme: Steelers Football</h3>
 <table class="table is-bordered is-striped is-narrow is-hoverable">
 <thead>
 <tr>
