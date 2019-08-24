@@ -54,6 +54,7 @@ tags:
 <tr><td>3:00</td><td>4:00</td><td>Minute to Win It Tournament</td><td>Main Street Activity Area</td></tr>
 <tr><td>3:00</td><td>8:00</td><td>Daniel Tiger Craft</td><td>Rogers Park</td></tr>
 <tr><td>3:30</td><td>4:30</td><td>The Wildflowers</td><td>Technimark Stage</td></tr>
+<tr><td>3:30</td><td>4:00</td><td>Champion Martial arts</td><td>Expo Area</td></tr>
 <tr><td>4:00</td><td>5:00</td><td>Minute to Win It Junior Tournament </td><td>Rogers Park</td></tr>
 <tr><td>4:00</td><td>6:00</td><td>Cornhole Tournament</td><td>Main Street Activity Area</td></tr>
 <tr><td>4:30</td><td>6:00</td><td>Henry Bachorski and the Eddy</td><td>Sendell Motors Stage</td></tr>
