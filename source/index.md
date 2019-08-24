@@ -6,63 +6,6 @@ tags:
 
 {% raw %}
 <!--
-######## ########  #### ########     ###    ##    ## 
-##       ##     ##  ##  ##     ##   ## ##    ##  ##  
-##       ##     ##  ##  ##     ##  ##   ##    ####   
-######   ########   ##  ##     ## ##     ##    ##    
-##       ##   ##    ##  ##     ## #########    ##    
-##       ##    ##   ##  ##     ## ##     ##    ##    
-##       ##     ## #### ########  ##     ##    ##    
--->
-<h2 class="title is-3">Friday, August 23</h2>
-<h3 class="subtitle is-5">Kids Area Theme: "Gooo Bananas"</h3>
-<h3 class="subtitle is-5">Sports Theme: Pirates Baseball</h3>
-<table class="table is-bordered is-striped is-narrow is-hoverable">
-<thead>
-<tr>
-<th>Start Time</th><th>End Time</th><th>Activity</th><th>Location</th>
-</tr>
-</thead>
-<tbody>
-<tr><td>6:00 AM</td><td>7:00 PM</td><td>Valley Dairy Restaurant Open</td><td>1120 Jefferson St</td></tr>
-<tr><td>12:00 PM</td><td>8:00 PM</td><td>Food & Craft Vendors Open</td><td></td></tr>
-<tr><td>12:00 PM</td><td>3:30 PM</td><td>Open Play Cornhole</td><td>Main Street Activity Area</td></tr>
-<tr><td>12:00 PM</td><td>4:30 PM</td><td>Open Play Oversized Pong</td><td>Main Street Activity Area</td></tr>
-<tr><td>12:00 PM</td><td>7:00 PM</td><td>Over 21 Area Open</td><td>347 Main St</td></tr>
-<tr><td>12:00 PM</td><td>8:00 PM</td><td>Banana Split Coloring Craft</td><td>Rogers Park</td></tr>
-<tr><td>12:00 PM</td><td>8:00 PM</td><td>Banana Split Craft</td><td>Rogers Park</td></tr>
-<tr><td>12:00 PM</td><td>8:00 PM</td><td>Banana Split Retail Shop Open</td><td>Ligonie & Main</td></tr>
-<tr><td>12:00 PM</td><td>8:00 PM</td><td>Climbing Wall</td><td>Ligonier Street</td></tr>
-<tr><td>12:00 PM</td><td>8:00 PM</td><td>Open Play Oversized Connect Four</td><td>Main Street Activity Area</td></tr>
-<tr><td>12:00 PM</td><td>8:00 PM</td><td>Open Play Oversized Jenga</td><td>Main Street Activity Area</td></tr>
-<tr><td>12:00 PM</td><td>8:00 PM</td><td>Pittsburgh Pirates Coloring Craft</td><td>Rogers Park</td></tr>
-<tr><td>12:00 PM</td><td>8:00 PM</td><td>Valley Dairy Banana Splits</td><td>Ligonier & Main</td></tr>
-<tr><td>1:00 PM</td><td>5:00 PM</td><td>American Red Cross Blood Drive</td><td>Trinity Lutheran Church</td></tr>
-<tr><td>3:30 PM</td><td>4:30 PM</td><td>The Rick George Band</td><td>Sendell Motors Stage</td></tr>
-<tr><td>4:00 PM</td><td>5:00 PM</td><td>Mary Lou Scherder</td><td>Technimark Stage</td></tr>
-<tr><td>4:00 PM</td><td>5:00 PM</td><td>Meet and Greet with the Banana Split Princess Court</td><td></td></tr>
-<tr><td>4:00 PM</td><td>5:00 PM</td><td>Minute to Win it Junior Tournament</td><td>Rogers Park</td></tr>
-<tr><td>4:00 PM</td><td>6:00 PM</td><td>Cornhole Tournament</td><td>Main Street Activity Area</td></tr>
-<tr><td>4:00 PM</td><td>6:00 PM</td><td>The Leary Family Band</td><td>Dollar Bank Stage</td></tr>
-<tr><td>5:00 PM</td><td>6:00 PM</td><td>Glass Half Full</td><td>Sendell Motors Stage</td></tr>
-<tr><td>5:00 PM</td><td>6:00 PM</td><td>Limbo Contest</td><td>Rogers Park</td></tr>
-<tr><td>5:00 PM</td><td>7:00 PM</td><td>Oversized Pong Tournament</td><td>Main Street Activity Area</td></tr>
-<tr><td>5:00 PM</td><td>8:00 PM</td><td>Latrobe Historical Society: "Latrobe: Through the Lens of Harry Frye"</td><td>Quatrini Rafferty</td></tr>
-<tr><td>5:30 PM</td><td>6:30 PM</td><td>David Hawkins</td><td>Technimark Stage</td></tr>
-<tr><td>6:00 PM</td><td>6:30 PM</td><td>Annie Duda</td><td>Sendell Motors Stage</td></tr>
-<tr><td>6:00 PM</td><td>7:00 PM</td><td>Banana Relay Race</td><td>Rogers Park</td></tr>
-<tr><td>6:00 PM</td><td>7:00 PM</td><td>Pirates Baseball Trivia Contest</td><td>Main Street Activity Area</td></tr>
-<tr><td>6:00 PM</td><td>8:00 PM</td><td>Candy Bar Bingo</td><td>911 Ligonier St</td></tr>
-<tr><td>6:00 PM</td><td>8:00 PM</td><td>Open Play Cornhole</td><td>Main Street Activity Area</td></tr>
-<tr><td>6:00 PM</td><td>9:30 PM</td><td>Yellow Tie Gala</td><td>Latrobe Art Center</td></tr>
-</tbody>
-</table>
-{% endraw %}
-
----
-
-{% raw %}
-<!--
  ######     ###    ######## ##     ## ########  ########     ###    ##    ## 
 ##    ##   ## ##      ##    ##     ## ##     ## ##     ##   ## ##    ##  ##  
 ##        ##   ##     ##    ##     ## ##     ## ##     ##  ##   ##    ####   
@@ -143,7 +86,6 @@ tags:
 <tr><td>8/24/19 16:00</td><td>8/24/19 17:00</td><td>Minute to Win It Junior Tournament </td><td>Rogers Park</td></tr>
 <tr><td>8/24/19 16:00</td><td>8/24/19 18:00</td><td>Cornhole Tournament</td><td>Main Street Activity Area</td></tr>
 <tr><td>8/24/19 16:30</td><td>8/24/19 18:00</td><td>Henry Bachorski and the Eddy</td><td>Sendell Motors Stage</td></tr>
-<tr><td>8/24/19 16:30</td><td>8/24/19 18:00</td><td>Katelyn Rose Band</td><td>Dollar Bank Stage</td></tr>
 <tr><td>8/24/19 17:00</td><td>8/24/19 18:00</td><td>Go Bananas Limbo Contest</td><td>Rogers Park</td></tr>
 <tr><td>8/24/19 17:00</td><td>8/24/19 18:00</td><td>Shattered Acoustic</td><td>Technimark Stage</td></tr>
 <tr><td>8/24/19 17:00</td><td>8/24/19 19:00</td><td>Oversize Pong Tournament</td><td>Main Street Activity Area</td></tr>
