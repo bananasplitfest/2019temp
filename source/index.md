@@ -6,74 +6,6 @@ tags:
 
 {% raw %}
 <!--
- ######     ###    ######## ##     ## ########  ########     ###    ##    ## 
-##    ##   ## ##      ##    ##     ## ##     ## ##     ##   ## ##    ##  ##  
-##        ##   ##     ##    ##     ## ##     ## ##     ##  ##   ##    ####   
- ######  ##     ##    ##    ##     ## ########  ##     ## ##     ##    ##    
-      ## #########    ##    ##     ## ##   ##   ##     ## #########    ##    
-##    ## ##     ##    ##    ##     ## ##    ##  ##     ## ##     ##    ##    
- ######  ##     ##    ##     #######  ##     ## ########  ##     ##    ##    
--->
-<h2 class="title is-3">Saturday, August 24</h2>
-<h3 class="subtitle is-5">Kids Area Theme: Daniel Tiger "Kindness Matters"</h3>
-<h3 class="subtitle is-5">Sports Theme: Arnold Palmer Golf</h3>
-<table class="table is-bordered is-striped is-narrow is-hoverable">
-<thead>
-<tr>
-<th>Start Time</th><th>End Time</th><th>Activity</th><th>Location</th>
-</tr>
-</thead>
-<tbody>
-<tr><td>06:00</td><td>7:00</td><td>Valley Dairy Restaurant Open</td><td>1120 Jefferson St</td></tr>
-<tr><td>10:00</td><td>3:00</td><td>Kindness Matters Craft</td><td>Rogers Park</td></tr>
-<tr><td>10:00</td><td>3:30</td><td>Open Play Cornhole</td><td>Main Street Activity Area</td></tr>
-<tr><td>10:00</td><td>4:00</td><td>Rummage Sale</td><td>Christ the Divine Teacher School</td></tr>
-<tr><td>10:00</td><td>4:30</td><td>Open Play Oversized Pong</td><td>Main Street Activity Area</td></tr>
-<tr><td>10:00</td><td>5:00</td><td>Paper Heart Affairs One Year Anniversary Celebration</td><td>337 Main Street</td></tr>
-<tr><td>10:00</td><td>6:00</td><td>Adams Memorial Library</td><td>Rogers Park</td></tr>
-<tr><td>10:00</td><td>6:00</td><td>Latrobe Historical Society: "Latrobe: Through the Lens of Harry Frye"</td><td>Quatrini Rafferty</td></tr>
-<tr><td>10:00</td><td>8:00</td><td>Arnold Palmer Tribute Craft</td><td>Main Street Activity Area</td></tr>
-<tr><td>10:00</td><td>8:00</td><td>Banana Split Retail Shop Open</td><td>Ligonie & Main</td></tr>
-<tr><td>10:00</td><td>8:00</td><td>Climbing Wall</td><td>Ligonier Street</td></tr>
-<tr><td>10:00</td><td>8:00</td><td>Daniel Tiger Coloring Craft</td><td>Rogers Park</td></tr>
-<tr><td>10:00</td><td>8:00</td><td>Face Painting</td><td>Rogers Park</td></tr>
-<tr><td>10:00</td><td>8:00</td><td>Food & Craft Vendors Open</td><td></td></tr>
-<tr><td>10:00</td><td>8:00</td><td>Open Play Oversized Connect Four</td><td>Main Street Activity Area</td></tr>
-<tr><td>10:00</td><td>8:00</td><td>Open Play Oversized Jenga</td><td>Main Street Activity Area</td></tr>
-<tr><td>10:00</td><td>8:00</td><td>Putting Contest</td><td>Main Street Activity Area</td></tr>
-<tr><td>10:00</td><td>8:00</td><td>Valley Dairy Banana Splits</td><td>Ligonier & Main</td></tr>
-<tr><td>10:00</td><td>8:00</td><td>Pack 305 Rain Gutter Regatta</td><td>Rogers Park</td></tr>
-<tr><td>10:30</td><td></td><td>5k Banana Run Awards Ceremony</td><td>Latrobe Memorial Stadium</td></tr>
-<tr><td>12:00</td><td>7:00</td><td>Over 21 Area Open</td><td>347 Main St</td></tr>
-<tr><td>12:00</td><td>7:00</td><td>Over 21 Area Open</td><td>Sendell Motors Stage</td></tr>
-<tr><td>3:00</td><td>3:30</td><td>Petrillo's Karate Campus</td><td>Expo Area</td></tr>
-<tr><td>3:00</td><td>4:00</td><td>Banana Relay Race</td><td>Rogers Park</td></tr>
-<tr><td>3:00</td><td>4:00</td><td>Derek Woods Band</td><td>Sendell Motors Stage</td></tr>
-<tr><td>3:00</td><td>4:00</td><td>Kevin Dale (trio)</td><td>Dollar Bank Stage</td></tr>
-<tr><td>3:00</td><td>4:00</td><td>Meet and Greet with the Banana Split Princess Court</td><td></td></tr>
-<tr><td>3:00</td><td>4:00</td><td>Minute to Win It Tournament</td><td>Main Street Activity Area</td></tr>
-<tr><td>3:00</td><td>8:00</td><td>Daniel Tiger Craft</td><td>Rogers Park</td></tr>
-<tr><td>3:30</td><td>4:30</td><td>The Wildflowers</td><td>Technimark Stage</td></tr>
-<tr><td>3:30</td><td>4:00</td><td>Champion Martial arts</td><td>Expo Area</td></tr>
-<tr><td>4:00</td><td>5:00</td><td>Minute to Win It Junior Tournament </td><td>Rogers Park</td></tr>
-<tr><td>4:00</td><td>6:00</td><td>Cornhole Tournament</td><td>Main Street Activity Area</td></tr>
-<tr><td>4:30</td><td>6:00</td><td>Henry Bachorski and the Eddy</td><td>Sendell Motors Stage</td></tr>
-<tr><td>5:00</td><td>6:00</td><td>Go Bananas Limbo Contest</td><td>Rogers Park</td></tr>
-<tr><td>5:00</td><td>6:00</td><td>Shattered Acoustic</td><td>Technimark Stage</td></tr>
-<tr><td>5:00</td><td>7:00</td><td>Oversize Pong Tournament</td><td>Main Street Activity Area</td></tr>
-<tr><td>5:00</td><td></td><td>Banana Band Mini Parade</td><td></td></tr>
-<tr><td>6:00</td><td>7:00</td><td>Arnold Palmer/Golf Trivia Contest</td><td>Main Street Activity Area</td></tr>
-<tr><td>6:00</td><td>7:00</td><td>Banana Relay Race</td><td>Rogers Park</td></tr>
-<tr><td>6:00</td><td>8:00</td><td>Candy Bar Bingo</td><td>Expo Area</td></tr>
-<tr><td>6:00</td><td>8:00</td><td>Open Play Cornhole</td><td>Main Street Activity Area</td></tr>
-<tr><td>7:00</td><td>8:00</td><td>Open Play Oversized Pong</td><td>Main Street Activity Area</td></tr>
-<tr><td>7:00</td><td>9:30</td><td>Joe Grushecky and the Houserockers</td><td>Sendell Motors Stage</td></tr>
-</tbody>
-</table>
-{% endraw %}
-
-{% raw %}
-<!--
  ######  ##     ## ##    ## ########     ###    ##    ## 
 ##    ## ##     ## ###   ## ##     ##   ## ##    ##  ##  
 ##       ##     ## ####  ## ##     ##  ##   ##    ####   
@@ -100,14 +32,12 @@ tags:
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Climbing Wall</td><td>Ligonier Street</td></tr>
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Face Painting</td><td>Rogers Park</td></tr>
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Food & Craft Vendors Open</td><td></td></tr>
-<tr><td>10:00 AM</td><td>4:00 PM</td><td>Marketplace Vendors Open</td><td>800 Block Ligonier St</td></tr>
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Open Play Connect Four</td><td>Main Street Activity Area</td></tr>
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Open Play Jenga</td><td>Main Street Activity Area</td></tr>
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Pack 305 Rain Gutter Regatta</td><td>Rogers Park</td></tr>
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Pittburgh Steelers Children's Craft</td><td>Rogers Park</td></tr>
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Putting Contest</td><td>Main Street Activity Area</td></tr>
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Superhero Craft</td><td>Rogers Park</td></tr>
-<tr><td>10:00 AM</td><td>4:00 PM</td><td>Axe Throwing</td><td>Ligonier Street</td></tr>
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Valley Dairy Banana Splits</td><td>Ligonier & Main</td></tr>
 <tr><td>10:00 AM</td><td>11:30 PM</td><td>Open Play Cornhole</td><td>Main Street Activity Area</td></tr>
 <tr><td>11:00 AM</td><td>12:00 PM</td><td>Go Bananas Potato Sack Race</td><td>Rogers Park</td></tr>
@@ -121,7 +51,8 @@ tags:
 <tr><td>1:00 PM</td><td>2:00 PM</td><td>Go Bananas Relay Race</td><td>Rogers Park</td></tr>
 <tr><td>1:00 PM</td><td>2:00 PM</td><td>Sarina and Caterina Neal</td><td>Technimark Stage</td></tr>
 <tr><td>1:00 PM</td><td>3:00 PM</td><td>Oversized Pong Tournament</td><td>Main Street Activity Area</td></tr>
-<tr><td>1:00 PM</td><td>3:00 PM</td><td>Superhero Meet and Greet</td><td></td></tr>
+<tr><td>1:00 PM</td><td>3:00 PM</td><td>Superhero Meet and Greet</td><td>Rogers Park</td></tr>
+<tr><td>1:00 PM</td><td>4:00 PM</td><td>Axe Throwing</td><td>Ligonier Street</td></tr>
 <tr><td>1:30 PM</td><td>2:30 PM</td><td>Adam Fitz</td><td>Sendell Motors Stage</td></tr>
 <tr><td>2:00 PM</td><td>3:00 PM</td><td>Minute to Win It Junior Tournament </td><td>Rogers Park</td></tr>
 <tr><td>2:00 PM</td><td>4:00 PM</td><td>Open Play Cornhole</td><td>Main Street Activity Area</td></tr>
