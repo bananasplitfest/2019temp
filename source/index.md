@@ -25,7 +25,6 @@ tags:
 </thead>
 <tbody>
 <tr><td>6:00 AM</td><td>5:00 PM</td><td>Valley Dairy Restaurant Open</td><td>1120 Jefferson St</td></tr>
-<tr><td>10:00 AM</td><td>12:30 PM</td><td>Open Play Oversized Pong</td><td>Main Street Activity Area</td></tr>
 <tr><td>10:00 AM</td><td>2:00 PM</td><td>Paws Across Pittsburgh</td><td>Rogers Park</td></tr>
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Banana Split Coloring Craft</td><td>Rogers Park</td></tr>
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Banana Split Retail Shop Open</td><td>Ligonie & Main</td></tr>
@@ -39,9 +38,6 @@ tags:
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Putting Contest</td><td>Over 21 Area</td></tr>
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Superhero Craft</td><td>Rogers Park</td></tr>
 <tr><td>10:00 AM</td><td>4:00 PM</td><td>Valley Dairy Banana Splits</td><td>Ligonier & Main</td></tr>
-<tr><td>10:00 AM</td><td>11:30 PM</td><td>Open Play Cornhole</td><td>Main Street Activity Area</td></tr>
-<tr><td>11:00 AM</td><td>12:00 PM</td><td>Go Bananas Potato Sack Race</td><td>Rogers Park</td></tr>
-<tr><td>11:00 AM</td><td>12:00 PM</td><td>Minute to Win It Tournament</td><td>Rogers Park</td></tr>
 <tr><td>12:00 PM</td><td>1:00 PM</td><td>Alan Getto</td><td>Sendell Motors Stage</td></tr>
 <tr><td>12:00 PM</td><td>1:00 PM</td><td>Go Bananas Limbo Contest</td><td>Rogers Park</td></tr>
 <tr><td>12:00 PM</td><td>2:00 PM</td><td>Cornhole Tournament</td><td>Main Street Activity Area</td></tr>
